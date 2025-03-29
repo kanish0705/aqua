@@ -52,6 +52,18 @@ input, button {
     margin-top: 10px;
 }
 
+---
+---
+@import "{{ site.theme }}";
+
+/* Custom Styles */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+
 button {
     background: #007BFF;
     color: white;
